@@ -1,31 +1,61 @@
-[](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio mobile first
+# Hello_microverse
 
-> Project to helps to create your persomal portfolio
+> Description the project.
 
 ## Built With
 
--Major languages
-HTML,CSS
+- Major languages
+- Frameworks
+- Technologies used
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+I) install git
+
+II) open the terminal
+
+III) change to the directory to which the remote directory shall be cloned to
+
+IV) copy the url link from the git hub of the repo and clone it into the directory
+
+V) change diectory to the created folder
 
 ## Authors
 
-👤 **kalungi j bobson**
+👤 **KALUNGI J BOBSON**
 
-- GitHub:https://github.com/kalungi-j-bobson
-- Twitter:https://twitter.com/kalungibobsonj
-- LinkedIn: https://www.linkedin.com/in/kalungi-j-bobson/
+- GitHub: [@githubhandle](https://github.com/KALUNGI-J-BOBSON)
+- Twitter: [@twitterhandle](https://twitter.com/KALUNGIBOBSONJ)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/KALUNGI-J-BOBSON)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-Thank you for being involved in it i any way
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
